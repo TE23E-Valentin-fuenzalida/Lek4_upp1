@@ -1,0 +1,34 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+body{
+    background-image: url(/img/showcase\ \(1\).jpg);
+}
+
+
+h1{
+    font-family: roboto mono;
+    background-color: yellow;
+    color: blue;
+    text-align: center;
+}
+
+.artikel{
+    background-color: lightgray;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.sidfot{
+    text-align: center;
+}
+
+
+h2{
+    text-align: center;
+}
+
+
+p{
+    margin-left: 50px;
+}
